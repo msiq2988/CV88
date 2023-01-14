@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,7 +21,7 @@
         </tr>
     </table>
 <h1>Mustafa AL-Dabbagh</h1>
-<HR></HR>
+<HR>
 <H2>Socail Media Site</H2>
 <li><a href="http://www.fb.com">FB</a></li>
 <li><a href="Instgram.com">Instagram</a></li>
